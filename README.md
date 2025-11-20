@@ -4,13 +4,3 @@ Contribute
 ==========
 
 This repository is part of a set. Please see https://github.com/d-bl/GroundForge#contribute-to-documentation
-
-Specific for this repository
-------------
-You might get lost when editing lines like 
-
-    {% include tesselaceSample.html nr="181" ... %}
-
-The numbers in these lines appear as tooltips on the site when hovering over a thumbnail
-or previewing the target of a link.
-Note that a few image numbers may occur twice.
